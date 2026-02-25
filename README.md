@@ -45,5 +45,3 @@ This project analyzes the SuperStore retail dataset (2011–2014) using Python t
 - Optimize discount strategies  
 - Focus on high-profit categories  
 - Improve underperforming products  
-
-## 📁 Project Structure
